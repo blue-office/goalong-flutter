@@ -1,0 +1,19 @@
+name: goalong
+description: GoAlong の紹介コード・リンク、特典、RevenueCat 連携を提供する Flutter SDK。
+version: 0.1.0
+repository: https://github.com/blue-office/goalong-flutter
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+  flutter: '>=3.22.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.1
+  shared_preferences: ^2.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0

@@ -1,0 +1,6 @@
+.DS_Store
+.build/
+.swiftpm/
+node_modules/
+.dart_tool/
+build/
